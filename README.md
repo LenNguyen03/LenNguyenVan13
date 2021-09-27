@@ -1,6 +1,6 @@
 ### Hi there, I'm LenNguyen 👋
 
-[[Twitter Follow](https://img.shields.io/twitter/follow/lennguyenh?color=FF1493&style=for-the-badge)]
+[![Twitter Follow](https://img.shields.io/twitter/follow/lennguyenh?color=FF1493&style=for-the-badge)](https://twitter.com/intent/follow?screen_name=lennguyenh)
 
 ## I'm a Developer !
 
