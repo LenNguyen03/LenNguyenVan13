@@ -5,7 +5,7 @@
 ## I'm a Developer !
 
 - 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
+- 👯 I’m looking to collaborate with other 
 - 🥅 2022 Goals: Have nice job ha ha !
 - ⚡ Fun fact: I love to listen to music also video games too !
 
