@@ -10,7 +10,7 @@
 - ⚡ Fun fact: I love to listen to music also video games too !
 
 ### Connect with me:
-
+[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 <br />
 ### Languages and Tools:
@@ -35,8 +35,6 @@
 <img align="left" alt="GitHub" width="26px" src="https://img.icons8.com/color-glass/48/000000/github.png"/>
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
-
-<a href="" target="_blank"><img src="https://raw.githubusercontent.com/nakulbhati/nakulbhati/master/contain/in.png" alt="LinkedIn" width="30"></a>
 
 <br />
 
