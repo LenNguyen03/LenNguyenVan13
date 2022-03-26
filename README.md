@@ -1,22 +1,17 @@
 ### Hi there, I'm LenNguyen 👋
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/lennguyenh?color=FF1493&style=for-the-badge)](https://twitter.com/intent/follow?screen_name=lennguyenh)
+[!linkedin]: https://www.linkedin.com/in/len-nguyen-van-b1a89b1b5/
 
 ## I'm a Developer !
 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other 
-- 🥅 2022 Goals: Have nice job ha ha !
+- 🥅 2022 Goals: Have nice job !
 - ⚡ Fun fact: I love to listen to music also video games too !
 
 ### Connect with me:
-
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
 <br />
-
 ### Languages and Tools:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
@@ -35,7 +30,4 @@
 
 <br />
 <br />
-
-[twitter]: https://twitter.com/lennguyenh
-[instagram]: https://www.instagram.com/lennguyen0_0/
 [linkedin]: https://www.linkedin.com/in/len-nguyen-van-b1a89b1b5/
