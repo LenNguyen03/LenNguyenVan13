@@ -1,6 +1,6 @@
 ### Hi there, I'm LenNguyen 👋
 
-[!linkedin]: https://www.linkedin.com/in/len-nguyen-van-b1a89b1b5/
+[linkedin]: https://www.linkedin.com/in/len-nguyen-van-b1a89b1b5/
 
 ## I'm a Developer !
 
