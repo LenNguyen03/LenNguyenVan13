@@ -10,7 +10,8 @@
 - ⚡ Fun fact: I love to listen to music also video games too !
 
 ### Connect with me:
-[linkedin]: https://www.linkedin.com/in/len-nguyen-van-b1a89b1b5/
+<a href=https://www.linkedin.com/in/len-nguyen-van-b1a89b1b5/" target="_blank"><img src="https://raw.githubusercontent.com/nakulbhati/nakulbhati/master/contain/in.png" alt="LinkedIn" width="30"></a>
+
 <br />
 ### Languages and Tools:
 
