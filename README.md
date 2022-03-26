@@ -1,6 +1,6 @@
 ### Hi there, I'm LenNguyen 👋
 
-[linkedin]: https://www.linkedin.com/in/len-nguyen-van-b1a89b1b5/
+
 
 ## I'm a Developer !
 
@@ -10,7 +10,7 @@
 - ⚡ Fun fact: I love to listen to music also video games too !
 
 ### Connect with me:
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://img.icons8.com/external-justicon-flat-justicon/64/000000/external-linkedin-social-media-justicon-flat-justicon.png" />][linkedin]
+[linkedin]: https://www.linkedin.com/in/len-nguyen-van-b1a89b1b5/
 <br />
 ### Languages and Tools:
 
@@ -27,11 +27,11 @@
 
 <img align="left" alt="SQL" width="26px" src="https://img.icons8.com/fluency/48/000000/database.png" />
 <img align="left" alt="Firebase" width="26px" src="https://img.icons8.com/color/48/000000/firebase.png" />
-<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
+<img align="left" alt="MongoDB" width="26px" src="https://img.icons8.com/color/100/000000/mongodb.png" />
 <img align="left" alt="SQLPostgre" width="26px" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/24/000000/external-postgre-sql-a-free-and-open-source-relational-database-management-system-logo-shadow-tal-revivo.png" />
 
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png"/>
+<img align="left" alt="GitHub" width="26px" src="https://img.icons8.com/color-glass/48/000000/github.png"/>
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
 <br />
